@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+
+  eccentric-serendipity:
+    image: tmigone/eccentric-serendipity
+    privileged: true
